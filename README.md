@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 🖖
+
+I'm in love with rust :crab: and tooling :hammer_and_wrench: !
+
+[![davidB's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidB&show_icons=true)](https://github.com/davidB)
 
 <!--
 **davidB/davidB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
