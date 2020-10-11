@@ -3,8 +3,12 @@
 I'm in love with rust :crab: and tooling :hammer_and_wrench: !
 
 ![davidB's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidB&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidB&layout=compact)
+
+Other view of my stats:
+
+- [GitHub Visualizer](http://ghv.artzub.com/#user=davidB)
+- [CoderStats(davidB) - Summary Statistics, Rankings and Repositories](https://coderstats.net/github/#davidB)
 
 <!--
 **davidB/davidB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
