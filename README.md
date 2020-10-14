@@ -7,8 +7,9 @@ I'm in love with rust :crab: and tooling :hammer_and_wrench: !
 
 Other view of my stats:
 
+- [GitMemory](https://www.gitmemory.com/davidB)
 - [GitHub Visualizer](http://ghv.artzub.com/#user=davidB)
-- [CoderStats(davidB) - Summary Statistics, Rankings and Repositories](https://coderstats.net/github/#davidB)
+- [CoderStats - Summary Statistics, Rankings and Repositories](https://coderstats.net/github/#davidB)
 
 <!--
 **davidB/davidB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
