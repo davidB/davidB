@@ -11,9 +11,9 @@ Other view of my stats:
 - [GitHub Visualizer](http://ghv.artzub.com/#user=davidB)
 - [CoderStats - Summary Statistics, Rankings and Repositories](https://coderstats.net/github/#davidB)
 
-Presence on other site:
-
-- [![David Bernard's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/davidb31)
+<a href="https://dev.to/davidb31">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="David Bernard's DEV Community Profile" height="30" width="30">
+</a>
 
 
 <!--
