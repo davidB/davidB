@@ -11,6 +11,11 @@ Other view of my stats:
 - [GitHub Visualizer](http://ghv.artzub.com/#user=davidB)
 - [CoderStats - Summary Statistics, Rankings and Repositories](https://coderstats.net/github/#davidB)
 
+Presence on other site:
+
+- [![David Bernard's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/davidb31)
+
+
 <!--
 **davidB/davidB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
